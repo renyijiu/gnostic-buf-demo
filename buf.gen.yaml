@@ -1,0 +1,7 @@
+version: v1
+plugins:
+  - name: openapi
+    out: gen/openapi
+    strategy: all
+    opt:
+      - title=Openapiv3
