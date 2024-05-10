@@ -4,12 +4,12 @@ deps:
   - remote: buf.build
     owner: gnostic
     repository: gnostic
-    commit: 6124a71db11d483086e169a184769d9e
+    commit: 087bc8072ce44e339f213209e4d57bf0
   - remote: buf.build
     owner: googleapis
     repository: googleapis
-    commit: 4d8df1fb1c354c2d8ae30ebb33211c94
+    commit: cc9c423640a448ec81a25b69927172cf
   - remote: buf.build
     owner: grpc-ecosystem
     repository: grpc-gateway
-    commit: f85c60ac38544f2d8f346491c9d916e5
+    commit: ba66afc387e740a8b403f1ca738fa78a
